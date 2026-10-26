@@ -1,0 +1,150 @@
+﻿pais,region,modalidad_envio,operaciones,productos_distintos,litros_totales,fob_total_usd,litros_promedio_operacion,usd_por_litro,participacion_fob_pct,participacion_litros_pct,fob_promedio_operacion,segmento_precio,ranking_fob
+Estados Unidos,Norteamérica,fraccionado,4636,46,12046530.0,56568326.8414,2598.474978429681,4.7,23.83,15.34,12201.97,Medio-alto (3-5),1
+Brasil,Latinoamérica y Caribe,fraccionado,3220,43,6806837.0,25310992.1961,2113.9245341614906,3.72,10.66,8.67,7860.56,Medio-alto (3-5),2
+Reino Unido,Europa,fraccionado,1408,32,4873741.0,18468103.8487,3461.463778409091,3.79,7.78,6.21,13116.55,Medio-alto (3-5),3
+Canada,Norteamérica,fraccionado,1369,24,2694590.0,12190061.8908,1968.290723155588,4.52,5.14,3.43,8904.35,Medio-alto (3-5),4
+Estados Unidos,Norteamérica,granel,174,10,5820971.0,11483443.822,33453.85632183908,1.97,4.84,7.41,65996.8,Medio (1-3),5
+Reino Unido,Europa,granel,299,7,9299900.0,10012809.86,31103.344481605352,1.08,4.22,11.84,33487.66,Medio (1-3),6
+Mexico,Norteamérica,fraccionado,575,31,1717898.0,6184456.2404,2987.648695652174,3.6,2.61,2.19,10755.58,Medio-alto (3-5),7
+Japon,Asia y Medio Oriente,granel,66,5,2488126.0,5600974.2679,37698.878787878784,2.25,2.36,3.17,84863.25,Medio (1-3),8
+Paises Bajos,Europa,fraccionado,873,27,1486090.0,5510506.4518,1702.2794959908363,3.71,2.32,1.89,6312.15,Medio-alto (3-5),9
+Peru,Latinoamérica y Caribe,fraccionado,1077,40,1012899.0,4468742.3129,940.4818941504178,4.41,1.88,1.29,4149.25,Medio-alto (3-5),10
+Colombia,Latinoamérica y Caribe,fraccionado,409,18,1323528.0,3954800.036,3236.0097799511004,2.99,1.67,1.69,9669.44,Medio (1-3),11
+Paraguay,Latinoamérica y Caribe,fraccionado,426,34,1440272.0,3900645.736,3380.9201877934274,2.71,1.64,1.83,9156.45,Medio (1-3),12
+Francia,Europa,fraccionado,254,23,623231.0,3653410.0335,2453.665354330709,5.86,1.54,0.79,14383.5,Alto (>5),13
+Canada,Norteamérica,granel,55,7,2260782.0,3573982.0722000003,41105.12727272727,1.58,1.51,2.88,64981.49,Medio (1-3),14
+Suiza,Europa,fraccionado,257,19,648019.0,3517735.7502,2521.474708171206,5.43,1.48,0.83,13687.69,Alto (>5),15
+Paises Bajos,Europa,granel,23,4,1588444.0,3148857.6322,69062.78260869565,1.98,1.33,2.02,136906.85,Medio (1-3),16
+Uruguay,Latinoamérica y Caribe,fraccionado,574,32,773654.0,3088004.7881,1347.8292682926829,3.99,1.3,0.99,5379.8,Medio-alto (3-5),17
+Arabia Saudita,Asia y Medio Oriente,granel,16,2,1197904.0,2635324.7904,74869.0,2.2,1.11,1.53,164707.8,Medio (1-3),18
+China,Asia y Medio Oriente,fraccionado,158,15,462485.0,2340317.9,2927.1202531645567,5.06,0.99,0.59,14812.14,Alto (>5),19
+Sudafrica,África,granel,21,4,1200621.0,2333655.876,57172.42857142857,1.94,0.98,1.53,111126.47,Medio (1-3),20
+Panama,Latinoamérica y Caribe,fraccionado,466,25,290029.0,2299854.5145,622.3798283261802,7.93,0.97,0.37,4935.31,Alto (>5),21
+Belgica,Europa,fraccionado,316,18,450144.0,2133154.4705,1424.506329113924,4.74,0.9,0.57,6750.49,Medio-alto (3-5),22
+China,Asia y Medio Oriente,granel,21,1,918001.0,2057597.3133,43714.333333333336,2.24,0.87,1.17,97980.82,Medio (1-3),23
+Republica Federal De Alemania,Europa,fraccionado,226,19,419664.0,2041798.2635000001,1856.9203539823009,4.87,0.86,0.53,9034.51,Medio-alto (3-5),24
+Puerto Rico(Estado Asociado),Latinoamérica y Caribe,fraccionado,215,16,313001.0,1988600.0464,1455.8186046511628,6.35,0.84,0.4,9249.3,Alto (>5),25
+España,Europa,fraccionado,402,23,305442.0,1964054.5407,759.8059701492538,6.43,0.83,0.39,4885.71,Alto (>5),26
+Irlanda,Europa,fraccionado,167,10,542878.0,1931804.5025,3250.7664670658683,3.56,0.81,0.69,11567.69,Medio-alto (3-5),27
+Tailandia,Asia y Medio Oriente,granel,14,1,810163.0,1811267.2357,57868.78571428572,2.24,0.76,1.03,129376.23,Medio (1-3),28
+Corea Republicana,Asia y Medio Oriente,fraccionado,183,15,289477.0,1650373.9324,1581.8415300546449,5.7,0.7,0.37,9018.44,Alto (>5),29
+Japon,Asia y Medio Oriente,fraccionado,244,15,325613.0,1497362.6158,1334.4795081967213,4.6,0.63,0.41,6136.73,Medio-alto (3-5),30
+Costa Rica,Latinoamérica y Caribe,fraccionado,392,25,314774.0,1421407.5143,802.9948979591836,4.52,0.6,0.4,3626.04,Medio-alto (3-5),31
+Oman,Asia y Medio Oriente,granel,12,1,574856.0,1182132.2125000001,47904.666666666664,2.06,0.5,0.73,98511.02,Medio (1-3),32
+Chile,Latinoamérica y Caribe,granel,22,5,2413684.0,1146764.739,109712.90909090909,0.48,0.48,3.07,52125.67,Bajo (<1),33
+Australia,Oceanía,fraccionado,96,8,247526.0,1104696.9097,2578.3958333333335,4.46,0.47,0.32,11507.26,Medio-alto (3-5),34
+Letonia,Europa,fraccionado,166,14,256120.0,1071688.7078,1542.8915662650602,4.18,0.45,0.33,6455.96,Medio-alto (3-5),35
+Noruega,Europa,fraccionado,79,8,189732.0,1066938.6527,2401.6708860759495,5.62,0.45,0.24,13505.55,Alto (>5),36
+Suecia,Europa,fraccionado,85,12,203296.0,1045399.2586,2391.7176470588233,5.14,0.44,0.26,12298.81,Alto (>5),37
+Polonia,Europa,fraccionado,109,16,265786.0,956608.3221999999,2438.4036697247707,3.6,0.4,0.34,8776.22,Medio-alto (3-5),38
+Rusia,Europa,fraccionado,74,10,394367.0,949161.9680999999,5329.283783783784,2.41,0.4,0.5,12826.51,Medio (1-3),39
+Emiratos Arabes Unidos,Asia y Medio Oriente,fraccionado,156,10,136481.0,843858.3996,874.8782051282051,6.18,0.36,0.17,5409.35,Alto (>5),40
+Dinamarca,Europa,fraccionado,116,10,118014.0,773815.9993,1017.3620689655172,6.56,0.33,0.15,6670.83,Alto (>5),41
+Republica Federal De Alemania,Europa,granel,19,6,1103333.0,718828.9252,58070.15789473684,0.65,0.3,1.41,37833.1,Bajo (<1),42
+Ecuador,Latinoamérica y Caribe,fraccionado,142,19,215172.0,679892.4656,1515.2957746478874,3.16,0.29,0.27,4787.98,Medio-alto (3-5),43
+Francia,Europa,granel,29,2,990000.0,663660.0,34137.93103448276,0.67,0.28,1.26,22884.83,Bajo (<1),44
+Finlandia,Europa,fraccionado,70,5,136027.0,621372.1932,1943.2428571428572,4.57,0.26,0.17,8876.75,Medio-alto (3-5),45
+Israel,Asia y Medio Oriente,granel,10,4,1306068.0,603764.9136,130606.8,0.46,0.25,1.66,60376.49,Bajo (<1),46
+Guatemala,Latinoamérica y Caribe,fraccionado,164,15,102830.0,603175.4667,627.0121951219512,5.87,0.25,0.13,3677.9,Alto (>5),47
+Singapur,Asia y Medio Oriente,fraccionado,121,13,122272.0,592343.1142,1010.5123966942149,4.84,0.25,0.16,4895.4,Medio-alto (3-5),48
+Hong Kong Reg.Admin.Espec.De(China),Asia y Medio Oriente,fraccionado,241,17,73937.0,588949.3962,306.79253112033194,7.97,0.25,0.09,2443.77,Alto (>5),49
+Turquia,Europa,granel,4,1,285326.0,581289.5098,71331.5,2.04,0.24,0.36,145322.38,Medio (1-3),50
+Venezuela,Latinoamérica y Caribe,fraccionado,87,10,197026.0,502790.3981,2264.6666666666665,2.55,0.21,0.25,5779.2,Medio (1-3),51
+Chipre,Europa,fraccionado,42,5,142416.0,487036.44310000003,3390.8571428571427,3.42,0.21,0.18,11596.11,Medio-alto (3-5),52
+Republica Dominicana,Latinoamérica y Caribe,fraccionado,107,9,102503.0,470465.619,957.9719626168225,4.59,0.2,0.13,4396.87,Medio-alto (3-5),53
+Israel,Asia y Medio Oriente,fraccionado,83,12,105703.0,460862.7383,1273.5301204819277,4.36,0.19,0.13,5552.56,Medio-alto (3-5),54
+Tailandia,Asia y Medio Oriente,fraccionado,98,9,68670.0,449277.8711,700.7142857142857,6.54,0.19,0.09,4584.47,Alto (>5),55
+Ucrania,Europa,fraccionado,98,11,136585.0,438715.452,1393.7244897959183,3.21,0.18,0.17,4476.69,Medio-alto (3-5),56
+Puerto Rico(Estado Asociado),Latinoamérica y Caribe,granel,8,3,181664.0,403777.6568,22708.0,2.22,0.17,0.23,50472.21,Medio (1-3),57
+Chile,Latinoamérica y Caribe,fraccionado,84,14,95783.0,402450.3241,1140.2738095238096,4.2,0.17,0.12,4791.08,Medio-alto (3-5),58
+Taiwan,Asia y Medio Oriente,fraccionado,71,9,78580.0,399530.9415,1106.7605633802816,5.08,0.17,0.1,5627.2,Alto (>5),59
+Suecia,Europa,granel,15,3,432000.0,398875.2,28800.0,0.92,0.17,0.55,26591.68,Bajo (<1),60
+Peru,Latinoamérica y Caribe,granel,9,3,226105.0,387394.44810000004,25122.777777777777,1.71,0.16,0.29,43043.83,Medio (1-3),61
+Italia,Europa,fraccionado,42,6,58969.0,328128.9138,1404.0238095238096,5.56,0.14,0.08,7812.59,Alto (>5),62
+Kenya,África,fraccionado,104,10,73826.0,321863.057,709.8653846153846,4.36,0.14,0.09,3094.84,Medio-alto (3-5),63
+Colombia,Latinoamérica y Caribe,granel,6,4,173340.0,314751.702,28890.0,1.82,0.13,0.22,52458.62,Medio (1-3),64
+Jamaica,Latinoamérica y Caribe,granel,5,1,157500.0,307203.75,31500.0,1.95,0.13,0.2,61440.75,Medio (1-3),65
+Aruba,Latinoamérica y Caribe,fraccionado,56,6,53914.0,261093.4339,962.75,4.84,0.11,0.07,4662.38,Medio-alto (3-5),66
+Terr.Vinculados Al Reino Unido,Otros,fraccionado,83,8,30703.0,249614.1679,369.9156626506024,8.13,0.11,0.04,3007.4,Alto (>5),67
+Republica Checa,Europa,fraccionado,47,12,56478.0,222986.2539,1201.659574468085,3.95,0.09,0.07,4744.39,Medio-alto (3-5),68
+Curazao,Latinoamérica y Caribe,fraccionado,81,18,29140.0,214474.1292,359.75308641975306,7.36,0.09,0.04,2647.83,Alto (>5),69
+El Salvador,Latinoamérica y Caribe,fraccionado,49,10,39161.0,203959.2861,799.204081632653,5.21,0.09,0.05,4162.43,Alto (>5),70
+Malasia,Asia y Medio Oriente,fraccionado,78,9,32682.0,199078.6946,419.0,6.09,0.08,0.04,2552.29,Alto (>5),71
+Suiza,Europa,granel,3,2,72000.0,194400.0,24000.0,2.7,0.08,0.09,64800.0,Medio (1-3),72
+Nicaragua,Latinoamérica y Caribe,fraccionado,43,5,51120.0,184679.4915,1188.8372093023256,3.61,0.08,0.07,4294.87,Medio-alto (3-5),73
+Filipinas,Asia y Medio Oriente,fraccionado,40,6,68057.0,174612.2278,1701.425,2.57,0.07,0.09,4365.31,Medio (1-3),74
+Nueva Zelanda,Oceanía,fraccionado,31,6,55724.0,170849.77909999999,1797.5483870967741,3.07,0.07,0.07,5511.28,Medio-alto (3-5),75
+Australia,Oceanía,granel,5,3,95370.0,165653.449,19074.0,1.74,0.07,0.12,33130.69,Medio (1-3),76
+Taiwan,Asia y Medio Oriente,granel,5,1,80288.0,157952.0412,16057.6,1.97,0.07,0.1,31590.41,Medio (1-3),77
+Italia,Europa,granel,2,1,96000.0,154560.0,48000.0,1.61,0.07,0.12,77280.0,Medio (1-3),78
+Serbia,Europa,fraccionado,22,4,32166.0,150530.1704,1462.090909090909,4.68,0.06,0.04,6842.28,Medio-alto (3-5),79
+Lituania,Europa,fraccionado,14,2,54960.0,145561.7732,3925.714285714286,2.65,0.06,0.07,10397.27,Medio (1-3),80
+Republica Dominicana,Latinoamérica y Caribe,granel,4,1,69916.0,140472.5032,17479.0,2.01,0.06,0.09,35118.13,Medio (1-3),81
+Islandia,Europa,fraccionado,14,3,26200.0,137220.2039,1871.4285714285713,5.24,0.06,0.03,9801.44,Alto (>5),82
+Grecia,Europa,fraccionado,48,7,15936.0,136745.168,332.0,8.58,0.06,0.02,2848.86,Alto (>5),83
+Finlandia,Europa,granel,6,2,144000.0,130800.0,24000.0,0.91,0.06,0.18,21800.0,Bajo (<1),84
+Rumania,Europa,fraccionado,18,3,8181.0,127343.9574,454.5,15.57,0.05,0.01,7074.66,Alto (>5),85
+Estonia,Europa,fraccionado,26,7,29100.0,126891.02100000001,1119.2307692307693,4.36,0.05,0.04,4880.42,Medio-alto (3-5),86
+Camerun,África,fraccionado,3,2,85051.0,126632.2083,28350.333333333332,1.49,0.05,0.11,42210.74,Medio (1-3),87
+Austria,Europa,fraccionado,59,8,21056.0,125517.1046,356.8813559322034,5.96,0.05,0.03,2127.41,Alto (>5),88
+Honduras,Latinoamérica y Caribe,fraccionado,39,5,24237.0,119111.03199999999,621.4615384615385,4.91,0.05,0.03,3054.13,Medio-alto (3-5),89
+Vietnam,Asia y Medio Oriente,fraccionado,33,7,20702.0,112796.2125,627.3333333333334,5.45,0.05,0.03,3418.07,Alto (>5),90
+Hungria,Europa,fraccionado,13,5,23237.0,110090.7396,1787.4615384615386,4.74,0.05,0.03,8468.52,Medio-alto (3-5),91
+Eslovaquia,Europa,fraccionado,21,5,10659.0,105234.7182,507.57142857142856,9.87,0.04,0.01,5011.18,Alto (>5),92
+Indonesia,Asia y Medio Oriente,fraccionado,16,6,16430.0,99027.9908,1026.875,6.03,0.04,0.02,6189.25,Alto (>5),93
+Bielorrusia,Europa,fraccionado,16,5,39600.0,95582.565,2475.0,2.41,0.04,0.05,5973.91,Medio (1-3),94
+Nigeria,África,fraccionado,26,5,13063.0,95048.0369,502.4230769230769,7.28,0.04,0.02,3655.69,Alto (>5),95
+Grecia,Europa,granel,1,1,36226.0,85645.5092,36226.0,2.36,0.04,0.05,85645.51,Medio (1-3),96
+Barbados,Latinoamérica y Caribe,fraccionado,25,4,11692.0,84867.8737,467.68,7.26,0.04,0.01,3394.71,Alto (>5),97
+Dinamarca,Europa,granel,6,3,144000.0,81120.0,24000.0,0.56,0.03,0.18,13520.0,Bajo (<1),98
+Haiti,Latinoamérica y Caribe,fraccionado,10,5,54541.0,77948.9914,5454.1,1.43,0.03,0.07,7794.9,Medio (1-3),99
+Qatar,Asia y Medio Oriente,fraccionado,22,4,14295.0,77264.967,649.7727272727273,5.41,0.03,0.02,3512.04,Alto (>5),100
+India,Asia y Medio Oriente,fraccionado,35,7,23919.0,77131.4355,683.4,3.22,0.03,0.03,2203.76,Medio-alto (3-5),101
+España,Europa,granel,3,1,96000.0,74400.0,32000.0,0.78,0.03,0.12,24800.0,Bajo (<1),102
+Paraguay,Latinoamérica y Caribe,granel,2,1,32298.0,73907.1468,16149.0,2.29,0.03,0.04,36953.57,Medio (1-3),103
+Emiratos Arabes Unidos,Asia y Medio Oriente,granel,1,1,34352.0,73712.5216,34352.0,2.15,0.03,0.04,73712.52,Medio (1-3),104
+India,Asia y Medio Oriente,granel,3,1,35667.0,72803.7998,11889.0,2.04,0.03,0.05,24267.93,Medio (1-3),105
+Cuba,Latinoamérica y Caribe,fraccionado,13,4,21078.0,70714.1205,1621.3846153846155,3.35,0.03,0.03,5439.55,Medio-alto (3-5),106
+Armenia,Europa,fraccionado,9,2,10800.0,66399.255,1200.0,6.15,0.03,0.01,7377.7,Alto (>5),107
+Ghana,África,fraccionado,12,4,32040.0,60159.969000000005,2670.0,1.88,0.03,0.04,5013.33,Medio (1-3),108
+Antigua Y Barbuda,Latinoamérica y Caribe,fraccionado,27,5,13140.0,56750.1543,486.6666666666667,4.32,0.02,0.02,2101.86,Medio-alto (3-5),109
+San Martin(Parte Holandesa),Latinoamérica y Caribe,fraccionado,14,2,9712.0,55083.7192,693.7142857142857,5.67,0.02,0.01,3934.55,Alto (>5),110
+Belgica,Europa,granel,2,1,53000.0,54863.0,26500.0,1.04,0.02,0.07,27431.5,Medio (1-3),111
+Corea Republicana,Asia y Medio Oriente,granel,1,1,15397.0,50813.1794,15397.0,3.3,0.02,0.02,50813.18,Medio-alto (3-5),112
+Iraq,Asia y Medio Oriente,granel,1,1,17176.0,48683.6544,17176.0,2.83,0.02,0.02,48683.65,Medio (1-3),113
+Mexico,Norteamérica,granel,2,1,25680.0,48455.592000000004,12840.0,1.89,0.02,0.03,24227.8,Medio (1-3),114
+Mongolia,Asia y Medio Oriente,fraccionado,6,5,10584.0,47655.190800000004,1764.0,4.5,0.02,0.01,7942.53,Medio-alto (3-5),115
+Luxemburgo,Europa,fraccionado,18,5,9159.0,45970.0181,508.8333333333333,5.02,0.02,0.01,2553.89,Alto (>5),116
+Jamaica,Latinoamérica y Caribe,fraccionado,12,3,20646.0,45816.6312,1720.5,2.22,0.02,0.03,3818.05,Medio (1-3),117
+Portugal,Europa,fraccionado,21,6,13319.0,45258.1694,634.2380952380952,3.4,0.02,0.02,2155.15,Medio-alto (3-5),118
+Bulgaria,Europa,fraccionado,7,3,15990.0,44217.0147,2284.285714285714,2.77,0.02,0.02,6316.72,Medio (1-3),119
+Malta,Europa,fraccionado,24,3,8581.0,42956.9481,357.5416666666667,5.01,0.02,0.01,1789.87,Alto (>5),120
+Bolivia,Latinoamérica y Caribe,fraccionado,40,8,7905.0,41680.001299999996,197.625,5.27,0.02,0.01,1042.0,Alto (>5),121
+Belice,Latinoamérica y Caribe,fraccionado,25,10,6951.0,38914.955500000004,278.04,5.6,0.02,0.01,1556.6,Alto (>5),122
+Tanzania,África,fraccionado,15,5,12600.0,37499.931,840.0,2.98,0.02,0.02,2500.0,Medio (1-3),123
+Hong Kong Reg.Admin.Espec.De(China),Asia y Medio Oriente,granel,1,1,16744.0,37392.7008,16744.0,2.23,0.02,0.02,37392.7,Medio (1-3),124
+Ecuador,Latinoamérica y Caribe,granel,1,1,16320.0,33766.08,16320.0,2.07,0.01,0.02,33766.08,Medio (1-3),125
+Bahreim,Asia y Medio Oriente,fraccionado,20,11,9248.0,32327.1021,462.4,3.5,0.01,0.01,1616.36,Medio-alto (3-5),126
+Bahamas,Latinoamérica y Caribe,fraccionado,4,2,14850.0,32255.684999999998,3712.5,2.17,0.01,0.02,8063.92,Medio (1-3),127
+Terr.Vinculados A Francia,Otros,fraccionado,5,3,5625.0,30351.843,1125.0,5.4,0.01,0.01,6070.37,Alto (>5),128
+Eslovaquia,Europa,granel,1,1,96000.0,29721.6,96000.0,0.31,0.01,0.12,29721.6,Bajo (<1),129
+Sri Lanka,Asia y Medio Oriente,fraccionado,8,3,10620.0,28810.161,1327.5,2.71,0.01,0.01,3601.27,Medio (1-3),130
+Trinidad Tobago,Latinoamérica y Caribe,fraccionado,8,5,6823.0,28788.171400000003,852.875,4.22,0.01,0.01,3598.52,Medio-alto (3-5),131
+Maldivas,Asia y Medio Oriente,fraccionado,9,3,5193.0,25259.8707,577.0,4.86,0.01,0.01,2806.65,Medio-alto (3-5),132
+Fiji,Oceanía,fraccionado,6,3,6696.0,21143.9583,1116.0,3.16,0.01,0.01,3523.99,Medio-alto (3-5),133
+Marruecos,África,fraccionado,4,3,3240.0,17657.946,810.0,5.45,0.01,0.0,4414.49,Alto (>5),134
+Terr.Vinculados A Estados Unidos,Otros,fraccionado,5,1,2394.0,16729.0074,478.8,6.99,0.01,0.0,3345.8,Alto (>5),135
+Florida (Uruguay),Latinoamérica y Caribe,fraccionado,6,3,1845.0,15940.0125,307.5,8.64,0.01,0.0,2656.67,Alto (>5),136
+Cambodya (Ex Kampuchea),Asia y Medio Oriente,fraccionado,8,3,2898.0,15615.9036,362.25,5.39,0.01,0.0,1951.99,Alto (>5),137
+"Mauricio, Islas",África,fraccionado,4,3,6300.0,15349.949999999999,1575.0,2.44,0.01,0.01,3837.49,Medio (1-3),138
+Turquia,Europa,fraccionado,6,2,1530.0,14074.029,255.0,9.2,0.01,0.0,2345.67,Alto (>5),139
+Jordania,Asia y Medio Oriente,fraccionado,3,1,1431.0,12018.029400000001,477.0,8.4,0.01,0.0,4006.01,Alto (>5),140
+San Vicente Y Las Granadinas,Latinoamérica y Caribe,fraccionado,4,3,2745.0,10695.0285,686.25,3.9,0.0,0.0,2673.76,Medio-alto (3-5),141
+Vietnam,Asia y Medio Oriente,granel,4,3,10000.0,10500.0,2500.0,1.05,0.0,0.01,2625.0,Medio (1-3),142
+Republica De Croacia,Europa,fraccionado,6,2,1418.0,6838.9999,236.33333333333334,4.82,0.0,0.0,1139.83,Medio-alto (3-5),143
+Myanmar Union De (Ex Birmania),Asia y Medio Oriente,fraccionado,4,2,1116.0,6007.0464,279.0,5.38,0.0,0.0,1501.76,Alto (>5),144
+San Cristobal Y Nevis,Latinoamérica y Caribe,fraccionado,4,3,1475.0,5904.9935,368.75,4.0,0.0,0.0,1476.25,Medio-alto (3-5),145
+Sudafrica,África,fraccionado,3,2,144.0,1336.0032,48.0,9.28,0.0,0.0,445.33,Alto (>5),146
+Arabia Saudita,Asia y Medio Oriente,fraccionado,16,2,119.0,192.0002,7.4375,1.61,0.0,0.0,12.0,Medio (1-3),147
+Oman,Asia y Medio Oriente,fraccionado,11,1,39.0,60.0,3.5454545454545454,1.54,0.0,0.0,5.45,Medio (1-3),148
+Iraq,Asia y Medio Oriente,fraccionado,1,1,1.0,2.0,1.0,2.0,0.0,0.0,2.0,Medio (1-3),149
